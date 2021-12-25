@@ -1,0 +1,21 @@
+.eventMessage {
+    position: relative;
+    top: 20%; 
+    transform: translate(0%, 15%);
+    /* left: 10%;  */
+    display: block;
+    margin-top: 2%;
+    background-color: aliceblue;
+    border: aqua;
+    border-radius: 5%;
+}
+
+.title {
+    font-size: 20pt;
+    position: relative;
+}
+
+.description {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:13pt;
+}
