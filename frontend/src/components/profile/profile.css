@@ -1,0 +1,35 @@
+.profile {
+    position: relative;
+    top: 20%; 
+    /* transform: translate(-50%, -50%); */
+    /* left: 10%;  */
+    display: block;
+    /* margin-top: 10%; */
+    margin: 4%;
+    background-color: aliceblue;
+    border: aqua;
+    border-radius: 2%;
+    background-position:center;
+}
+
+.button {
+    background-color: 	#1E90FF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    border-radius: 13%;
+    border-style: none;
+    font-size: 13pt;
+}
+
+.headline {
+    font-size: 20pt;
+    position: relative;
+    padding-left: 15ch;
+}
+
+.input {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5%;
+    border-width:thin;
+}
