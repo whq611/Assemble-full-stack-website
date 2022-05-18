@@ -1,10 +1,7 @@
 # Assemble1
 cs411 final project
 # Assemble
-CS 411 Team 411 Final Project: Assemble
+CS 411 Final Project: Assemble
+# Contributer
+ Hanqi Wang
 
-## Contributors
-1. Shiyu Liu
-2. Jingyuan Zhang
-3. Hanqi Wang
-4. Xiangxi Guo
